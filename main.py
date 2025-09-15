@@ -1,3 +1,6 @@
+from os import close
+
+
 def main():
     x = 2.0
     y = 4.0
@@ -11,6 +14,11 @@ def add(x, y):
 
 def sub(x, y):
     return x - y
+
+
+
+
+
 
 
 if __name__ == '__main__':
