@@ -1,6 +1,6 @@
 def main():
-    x = 2.0
-    y = 4.0
+    x = float(input("Zahl 1: "))
+    y = float(input("Zahl 2: "))
 
     print(f"{x} + {y} = {add(x, y)}")
 
