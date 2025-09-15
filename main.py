@@ -15,3 +15,9 @@ def sub(x, y):
 
 if __name__ == '__main__':
     main()
+
+
+def ask_input():
+    x = input("x")
+    y = input("y")
+    operator = input("+/-")
