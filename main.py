@@ -21,7 +21,7 @@ def multi(x, y):
 
 
 if __name__ == '__main__':
-    print("Hello User!")
+    print("Hello User :3")
     main()
 
 
