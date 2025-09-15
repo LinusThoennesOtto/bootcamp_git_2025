@@ -17,5 +17,5 @@ def multi(x, y):
 
 
 if __name__ == '__main__':
-    print("Hello User!")
+    print("Hi, ich bin dein persönlicher Taschenrechner! Let's start:")
     main()
